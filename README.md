@@ -16,6 +16,6 @@ Now set your desired notifications.
 
 get your notifications:
 
-![Phone notification](phone-notification.jpg)
+![Phone notification](description/phone-notification.jpg)
 
 ToDo: integration with [KStars messages translated](https://github.com/KDE/kstars/blob/8351de0c6200e1678137c9030d6b3b1a0d285d76/kstars/kstars.notifyrc).
